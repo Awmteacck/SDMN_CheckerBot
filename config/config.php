@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "8170080784:AAEOIpV0QB_TCoof1F-KEjkXWorpAAvEvR8";
+$config['botToken'] = "8511148727:AAGcub8xXSotLWR91wVyrGjr5gEtul93r5k";
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = "7237320756";
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  "-1002493542474";
+$config['logsID'] =  "-1002337115461";
 
 /*
 |--------------------------------------------------------------------------
